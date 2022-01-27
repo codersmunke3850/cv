@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins';
+}
+
+.name{
+    font-size: 70px;
+    }
+
+#ProfilePic{
+    width: 400px;
+    height: 470px;
+    border-radius: 75%;
+}
+
+.about{
+    font-size: 40px;
+}
+
